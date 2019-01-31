@@ -1,0 +1,3 @@
+[submodule "DonkeySignage-Server"]
+	path = DonkeySignage-Server
+	url = https://github.com/imerir/DonkeySignage-Server
